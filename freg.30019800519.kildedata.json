@@ -1,0 +1,188 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:12.958+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "30019800519",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:12.958+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:12.958+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1998-01-30",
+      "foedselsaar": "1998",
+      "foedekommuneINorge": "5001",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:38:02.894+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1998-01-30T00:00:00+01:00",
+      "relatertPerson": "13026500618",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:38:02.894+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1998-01-30T00:00:00+01:00",
+      "relatertPerson": "10016101783",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "ugift",
+      "sivilstandsdato": "2020-03-24"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "PUSLETE",
+      "etternavn": "OSTEKAKE",
+      "forkortetNavn": "PUSLETE OSTEKAKE"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "5001",
+        "bruksenhetsnummer": "39",
+        "adressenavn": "Grillstadfjæra",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "RANHEIM",
+          "postnummer": "7053"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "538765624",
+      "adressegradering": "ugradert",
+      "grunnkrets": 2205,
+      "stemmekrets": 12,
+      "skolekrets": 21,
+      "kirkekrets": 2
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "1507"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "3411"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "GRILLSTADFJÆRA",
+          "7053 RANHEIM",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Grillstadfjæra",
+          "7053 RANHEIM",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": []
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Sjusjøen-Brøttum",
+          "2612 SJUSJØEN",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

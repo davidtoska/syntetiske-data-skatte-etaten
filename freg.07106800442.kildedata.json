@@ -1,0 +1,170 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:00.346+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "07106800442",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:00.346+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:00.346+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1968-10-07",
+      "foedselsaar": "1968",
+      "foedekommuneINorge": "3030",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "01066800187",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-24",
+      "relatertVedSivilstand": "01066800187"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "TEA",
+      "etternavn": "BOYE",
+      "forkortetNavn": "TEA  BOYE"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:35:20.784+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:35:20.784+02:00",
+      "vegadresse": {
+        "kommunenummer": "3030",
+        "adressenavn": "Henrik Ibsens vei",
+        "adressenummer": {
+          "husnummer": "139"
+        },
+        "poststed": {
+          "poststedsnavn": "STRØMMEN",
+          "postnummer": "2010"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:21:02.364+02:00",
+      "erGjeldende": false,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:21:02.364+02:00",
+      "vegadresse": {
+        "kommunenummer": "0301",
+        "adressenavn": "Mosseveien",
+        "adressenummer": {
+          "husnummer": "206"
+        },
+        "poststed": {
+          "poststedsnavn": "OSLO",
+          "postnummer": "1169"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "3030",
+        "bruksenhetsnummer": "9",
+        "adressenavn": "Frydenlundsgata",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "STRØMMEN",
+          "postnummer": "2010"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "92273213",
+      "adressegradering": "ugradert",
+      "grunnkrets": 806,
+      "stemmekrets": 9,
+      "skolekrets": 3,
+      "kirkekrets": 1
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "FRYDENLUNDSGATA",
+          "2010 STRØMMEN",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Frydenlundsgata",
+          "2010 STRØMMEN",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

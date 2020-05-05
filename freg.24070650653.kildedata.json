@@ -1,0 +1,194 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:57.117+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "24070650653",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:57.117+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:57.117+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "2006-07-24",
+      "foedselsaar": "2006",
+      "foedekommuneINorge": "0301",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:11:30.623+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2006-07-24T00:00:00+02:00",
+      "relatertPerson": "23087600254",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:11:30.623+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2006-07-24T00:00:00+02:00",
+      "relatertPerson": "06047700351",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "ugift",
+      "sivilstandsdato": "2020-03-24"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "GRØNN",
+      "etternavn": "ALDRING",
+      "forkortetNavn": "GRØNN ALDRING"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "0301",
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "bolig",
+        "adressenavn": "Haugerudtunet",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "OSLO",
+          "postnummer": "0674"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "285815617",
+      "adressegradering": "ugradert",
+      "grunnkrets": 3705,
+      "stemmekrets": 1205,
+      "skolekrets": 165,
+      "kirkekrets": 2
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "2017-09-27T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "5033"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "2017-09-27"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "3453"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "HAUGERUDTUNET",
+          "0674 OSLO",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Haugerudtunet",
+          "0674 OSLO",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Grønlivegen",
+          "7590 TYDAL",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Føssevegen",
+          "2940 HEGGENES",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

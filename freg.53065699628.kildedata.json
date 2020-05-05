@@ -1,0 +1,92 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:24.103+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "53065699628",
+      "identifikatortype": "dNummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:24.103+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:24.103+01:00",
+      "status": "inaktiv"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1956-06-13",
+      "foedselsaar": "1956"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "sivilstand": "gift"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "fornavn": "AUTENTISKDYNAMISK",
+      "etternavn": "BYTTE"
+    }
+  ],
+  "oppholdsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-15T18:16:26.291+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-15T18:16:26.291+02:00",
+      "vegadresse": {
+        "kommunenummer": "3034",
+        "adressenavn": "Runnivegen",
+        "adressenummer": {
+          "husnummer": "42"
+        },
+        "poststed": {
+          "poststedsnavn": "ÅRNES",
+          "postnummer": "2150"
+        }
+      },
+      "adressegradering": "ugradert"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "oppholdsadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "Runnivegen 42",
+          "2150 ÅRNES"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "statsborgerskap": "NOR"
+    }
+  ]
+}

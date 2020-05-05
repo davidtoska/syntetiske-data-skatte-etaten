@@ -1,0 +1,133 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:20.969+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "13095001690",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:20.969+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:20.969+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1950-09-13",
+      "foedselsaar": "1950",
+      "foedekommuneINorge": "1505",
+      "foedeland": "NOR"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "LOTTA",
+      "etternavn": "HAUGLID",
+      "forkortetNavn": "LOTTA  HAUGLID"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:48:27.203+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:48:27.203+02:00",
+      "vegadresse": {
+        "kommunenummer": "1505",
+        "adressenavn": "Skolevegen",
+        "adressenummer": {
+          "husnummer": "55"
+        },
+        "poststed": {
+          "poststedsnavn": "FREI",
+          "postnummer": "6521"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "1505",
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "bolig",
+        "adressenavn": "Sandastien",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "FREI",
+          "postnummer": "6521"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "193127589",
+      "adressegradering": "ugradert",
+      "grunnkrets": 1204,
+      "stemmekrets": 5,
+      "skolekrets": 12,
+      "kirkekrets": 3
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "SANDASTIEN",
+          "6521 FREI",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Sandastien",
+          "6521 FREI",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:55.97+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "07014800438",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:55.97+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:55.97+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1948-01-07",
+      "foedselsaar": "1948",
+      "foedekommuneINorge": "1106",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "26014801749",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:41:15.497+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1973-12-24T00:00:00+01:00",
+      "relatertPerson": "24127300743",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:41:15.497+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1973-06-30T00:00:00+01:00",
+      "relatertPerson": "30067301079",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:41:15.497+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1973-07-02T00:00:00+01:00",
+      "relatertPerson": "02077302231",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-24",
+      "relatertVedSivilstand": "26014801749"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "DIANA",
+      "etternavn": "HEIBERG",
+      "forkortetNavn": "DIANA  HEIBERG"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-21T11:15:22.396+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T11:15:22.396+02:00",
+      "vegadresse": {
+        "kommunenummer": "3030",
+        "adressenavn": "Vestvollveien",
+        "adressenummer": {
+          "husnummer": "42"
+        },
+        "poststed": {
+          "poststedsnavn": "SKEDSMOKORSET",
+          "postnummer": "2019"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:33:31.357+02:00",
+      "erGjeldende": false,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:33:31.357+02:00",
+      "vegadresse": {
+        "kommunenummer": "1106",
+        "adressenavn": "Orshaugen",
+        "adressenummer": {
+          "husnummer": "16"
+        },
+        "poststed": {
+          "poststedsnavn": "HAUGESUND",
+          "postnummer": "5538"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "1106",
+        "bruksenhetsnummer": "19",
+        "adressenavn": "Hansastø",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "HAUGESUND",
+          "postnummer": "5538"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "66414550",
+      "adressegradering": "ugradert",
+      "grunnkrets": 101,
+      "stemmekrets": 1,
+      "skolekrets": 2,
+      "kirkekrets": 1
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "HANSASTØ",
+          "5538 HAUGESUND",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Hansastø",
+          "5538 HAUGESUND",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

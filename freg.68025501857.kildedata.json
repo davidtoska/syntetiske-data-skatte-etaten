@@ -1,0 +1,92 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:34.455+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "68025501857",
+      "identifikatortype": "dNummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:34.455+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:34.455+01:00",
+      "status": "inaktiv"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1955-02-28",
+      "foedselsaar": "1955"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "sivilstand": "gift"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "fornavn": "ADELE",
+      "etternavn": "BAKKA"
+    }
+  ],
+  "oppholdsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-15T18:19:13.089+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-15T18:19:13.089+02:00",
+      "vegadresse": {
+        "kommunenummer": "4207",
+        "adressenavn": "Rasvågveien",
+        "adressenummer": {
+          "husnummer": "250"
+        },
+        "poststed": {
+          "poststedsnavn": "HIDRASUND",
+          "postnummer": "4432"
+        }
+      },
+      "adressegradering": "ugradert"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "oppholdsadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "Rasvågveien 250",
+          "4432 HIDRASUND"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "statsborgerskap": "NOR"
+    }
+  ]
+}

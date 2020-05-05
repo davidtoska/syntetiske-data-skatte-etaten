@@ -1,0 +1,169 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:16.745+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "30120850608",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:16.745+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:16.745+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "2008-12-30",
+      "foedselsaar": "2008",
+      "foedekommuneINorge": "5047",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:41:50.84+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2008-12-30T00:00:00+01:00",
+      "relatertPerson": "29107802663",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:41:50.84+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2008-12-30T00:00:00+01:00",
+      "relatertPerson": "18037602996",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "sivilstand": "ugift",
+      "sivilstandsdato": "2020-03-25"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Innvandring",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "UPRAKTISK",
+      "etternavn": "PLATINABEVEGELSEDEKLARASJONFLØYTEJAPP",
+      "forkortetNavn": "UPRAKTISK PLATINABEVEGEL."
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "5047",
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "bolig",
+        "adressenavn": "Hunnavegen",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "SKAGE I NAMDALEN",
+          "postnummer": "7860"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "329910499",
+      "adressegradering": "ugradert",
+      "grunnkrets": 102,
+      "stemmekrets": 1,
+      "skolekrets": 1,
+      "kirkekrets": 4
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "4203"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "HUNNAVEGEN",
+          "7860 SKAGE I NAMDALEN",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Hunnavegen",
+          "7860 SKAGE I NAMDALEN",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Kveldroveien",
+          "4843 ARENDAL",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-25"
+    }
+  ]
+}

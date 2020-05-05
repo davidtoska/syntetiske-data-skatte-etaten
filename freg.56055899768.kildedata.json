@@ -1,0 +1,92 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:26.006+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "56055899768",
+      "identifikatortype": "dNummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:26.006+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:26.006+01:00",
+      "status": "inaktiv"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1958-05-16",
+      "foedselsaar": "1958"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "sivilstand": "gift"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "fornavn": "SPENNENDE",
+      "etternavn": "BJØRKLILJEETAT"
+    }
+  ],
+  "oppholdsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-15T18:25:34.047+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-15T18:25:34.047+02:00",
+      "vegadresse": {
+        "kommunenummer": "1816",
+        "adressenavn": "Nedre Slåttvikåsen",
+        "adressenummer": {
+          "husnummer": "10"
+        },
+        "poststed": {
+          "poststedsnavn": "VEVELSTAD",
+          "postnummer": "8976"
+        }
+      },
+      "adressegradering": "ugradert"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "oppholdsadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "Nedre Slåttvikåsen 10",
+          "8976 VEVELSTAD"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "statsborgerskap": "NOR"
+    }
+  ]
+}

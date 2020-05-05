@@ -1,0 +1,257 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:10.682+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "29016801036",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:10.682+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:10.682+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1968-01-29",
+      "foedselsaar": "1968",
+      "foedekommuneINorge": "3028",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:33:14.337+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1968-01-29T00:00:00+01:00",
+      "relatertPerson": "24024400499",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:33:14.337+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1968-01-29T00:00:00+01:00",
+      "relatertPerson": "08034200956",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "14116901553",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:18:23.808+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2005-04-01T00:00:00+02:00",
+      "relatertPerson": "01040550603",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:18:23.808+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2003-09-24T00:00:00+02:00",
+      "relatertPerson": "24090350338",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:18:23.808+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1999-04-16T00:00:00+02:00",
+      "relatertPerson": "16049901023",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-24",
+      "relatertVedSivilstand": "14116901553"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "FYLDIG",
+      "etternavn": "FROSK",
+      "forkortetNavn": "FYLDIG FROSK"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "3028",
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "bolig",
+        "adressenavn": "Åsfaret",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "YTRE ENEBAKK",
+          "postnummer": "1914"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "300034284",
+      "adressegradering": "ugradert",
+      "grunnkrets": 303,
+      "stemmekrets": 3,
+      "skolekrets": 3,
+      "kirkekrets": 2
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1976-03-27T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "3030"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1976-03-27"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1978-08-20T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "0301"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1978-08-20"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "2000-06-19T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "1149"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "2000-06-19"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "ÅSFARET",
+          "1914 YTRE ENEBAKK",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Åsfaret",
+          "1914 YTRE ENEBAKK",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2017-10-18T00:00:00+02:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "I. Opsahls gate",
+          "2004 LILLESTRØM",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2019-02-23T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Leyrins gate",
+          "0585 OSLO",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Tostembekken",
+          "4270 ÅKREHAMN",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

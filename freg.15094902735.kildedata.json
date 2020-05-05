@@ -1,0 +1,169 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:28.232+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "15094902735",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:28.232+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:28.232+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1949-09-15",
+      "foedselsaar": "1949",
+      "foedekommuneINorge": "3025",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T11:32:44.87+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1949-09-15T00:00:00+01:00",
+      "relatertPerson": "15082100811",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T11:32:44.87+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1949-09-15T00:00:00+01:00",
+      "relatertPerson": "18072301311",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "ugift",
+      "sivilstandsdato": "2020-03-24"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "OPPGITT",
+      "mellomnavn": "ULASTELIG",
+      "etternavn": "SJAKAL",
+      "forkortetNavn": "OPPGITT ULASTELIG SJAKAL"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:59:00.145+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:59:00.145+02:00",
+      "vegadresse": {
+        "kommunenummer": "3401",
+        "adressenavn": "Astrid Brincks veg",
+        "adressenummer": {
+          "husnummer": "36"
+        },
+        "poststed": {
+          "poststedsnavn": "KONGSVINGER",
+          "postnummer": "2211"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:52:37.059+02:00",
+      "erGjeldende": false,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:52:37.059+02:00",
+      "vegadresse": {
+        "kommunenummer": "0301",
+        "adressenavn": "Nordåssløyfa",
+        "adressenummer": {
+          "husnummer": "28",
+          "husbokstav": "B"
+        },
+        "poststed": {
+          "poststedsnavn": "OSLO",
+          "postnummer": "1251"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "matrikkeladresse": {
+        "bruksenhetsnummer": "0",
+        "matrikkelnummer": {
+          "kommunenummer": "3025",
+          "gaardsnummer": 88,
+          "bruksnummer": 10,
+          "festenummer": 0
+        },
+        "undernummer": 0,
+        "poststed": {
+          "poststedsnavn": "ASKER",
+          "postnummer": "1385"
+        }
+      },
+      "adresseIdentifikatorFraMatrikkelen": "62916347",
+      "adressegradering": "ugradert",
+      "grunnkrets": 1602,
+      "stemmekrets": 6,
+      "skolekrets": 8,
+      "kirkekrets": 2
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "bostedsadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "Astrid Brincks veg 36",
+          "2211 KONGSVINGER"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

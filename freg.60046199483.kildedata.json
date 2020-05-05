@@ -1,0 +1,93 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:28.068+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "60046199483",
+      "identifikatortype": "dNummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:28.068+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:28.068+01:00",
+      "status": "inaktiv"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1961-04-20",
+      "foedselsaar": "1961"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "sivilstand": "ugift"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "fornavn": "FJÅNG",
+      "mellomnavn": "ALLSLAGS",
+      "etternavn": "DELEGASJON"
+    }
+  ],
+  "oppholdsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-15T18:15:40.086+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-15T18:15:40.086+02:00",
+      "vegadresse": {
+        "kommunenummer": "5418",
+        "adressenavn": "Holtveien",
+        "adressenummer": {
+          "husnummer": "687"
+        },
+        "poststed": {
+          "poststedsnavn": "ØVERBYGD",
+          "postnummer": "9334"
+        }
+      },
+      "adressegradering": "ugradert"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "oppholdsadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "Holtveien 687",
+          "9334 ØVERBYGD"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "statsborgerskap": "NOR"
+    }
+  ]
+}

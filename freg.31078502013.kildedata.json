@@ -1,0 +1,283 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:17.696+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "31078502013",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:17.696+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:17.696+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1985-07-31",
+      "foedselsaar": "1985",
+      "foedekommuneINorge": "3025",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:43:55.976+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1985-07-31T00:00:00+02:00",
+      "relatertPerson": "30015302875",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:43:55.976+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1985-07-31T00:00:00+02:00",
+      "relatertPerson": "15105401903",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "21128402796",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:21:51.45+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2009-05-15T00:00:00+02:00",
+      "relatertPerson": "15050951488",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "mor"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-25",
+      "relatertVedSivilstand": "21128402796"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Innvandring",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "LILLAUMAKESNÅLFORDEKT",
+      "etternavn": "EGGEPLOMME",
+      "forkortetNavn": "LILLAUMAKESNÅLFORDEKT EG."
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "3025",
+        "bruksenhetsnummer": "2",
+        "adressenavn": "Drengsrudhagen",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "ASKER",
+          "postnummer": "1385"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "62914142",
+      "adressegradering": "ugradert",
+      "grunnkrets": 1005,
+      "stemmekrets": 5,
+      "skolekrets": 14,
+      "kirkekrets": 2
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "0301"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1996-07-30T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "3442"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1996-07-30"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1998-10-17T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "5001"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1998-10-17"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "4612"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "1507"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "DRENGSRUDHAGEN",
+          "1385 ASKER",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Drengsrudhagen",
+          "1385 ASKER",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Dronningens gate",
+          "7012 TRONDHEIM",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Vasslivegen",
+          "5554 VALEVÅG",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Borgundvegen",
+          "6007 ÅLESUND",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Stensgata",
+          "0358 OSLO",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Kjellbakkgutua",
+          "2850 LENA",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-25"
+    }
+  ]
+}

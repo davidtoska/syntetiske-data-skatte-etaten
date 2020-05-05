@@ -1,0 +1,180 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:05.671+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "27094602136",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:05.671+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:05.671+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1946-09-27",
+      "foedselsaar": "1946",
+      "foedekommuneINorge": "4637",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:26:40.11+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1946-09-27T00:00:00+01:00",
+      "relatertPerson": "25091401277",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:26:40.11+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1946-09-27T00:00:00+01:00",
+      "relatertPerson": "19111400558",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "28084702015",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:16:06.975+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1972-03-24T00:00:00+01:00",
+      "relatertPerson": "24037202009",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:16:06.975+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1980-09-30T00:00:00+01:00",
+      "relatertPerson": "30098001448",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:16:06.975+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1982-09-21T00:00:00+02:00",
+      "relatertPerson": "21098203882",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-24",
+      "relatertVedSivilstand": "28084702015"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "ENTUSIASTISKTOM",
+      "etternavn": "KØGJÆR",
+      "forkortetNavn": "ENTUSIASTISKTOM KØGJÆR"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "matrikkeladresse": {
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "bolig",
+        "matrikkelnummer": {
+          "kommunenummer": "4637",
+          "gaardsnummer": 94,
+          "bruksnummer": 7,
+          "festenummer": 0
+        },
+        "undernummer": 0,
+        "poststed": {
+          "poststedsnavn": "LEIRVIK I SOGN",
+          "postnummer": "6953"
+        }
+      },
+      "adresseIdentifikatorFraMatrikkelen": "64824601",
+      "adressegradering": "ugradert",
+      "grunnkrets": 106,
+      "stemmekrets": 1,
+      "skolekrets": 1,
+      "kirkekrets": 1
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "2019-08-17T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "4622"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "2019-08-17"
+    }
+  ],
+  "postadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Gamle Dalavegen",
+          "5600 NORHEIMSUND",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

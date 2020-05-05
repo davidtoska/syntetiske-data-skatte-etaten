@@ -1,0 +1,213 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:44.906+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "20068850593",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:44.906+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:44.906+01:00",
+      "status": "doed"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1888-06-20",
+      "foedselsaar": "1888",
+      "foedekommuneINorge": "5057",
+      "foedeland": "NOR"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "USIKKERPRESENTABEL",
+      "etternavn": "AKTORGJESTEROMRESSURS",
+      "forkortetNavn": "USIKKERPRESENTABEL AKTOR."
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "5057",
+        "bruksenhetsnummer": "7",
+        "adressenavn": "Litjmyra",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "LYSØYSUNDET",
+          "postnummer": "7168"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "505880919",
+      "adressegradering": "ugradert",
+      "grunnkrets": 411,
+      "stemmekrets": 1,
+      "skolekrets": 3,
+      "kirkekrets": 4
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1906-03-04T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "1127"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1906-03-04"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1903-08-06T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "1127"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1903-08-06"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "2002-05-12T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "0301"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "2002-05-12"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "1507"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "LITJMYRA",
+          "7168 LYSØYSUNDET",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Litjmyra",
+          "7168 LYSØYSUNDET",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Treskeveien",
+          "0681 OSLO",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Bronsestien",
+          "4072 RANDABERG",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Blålyngveien",
+          "4072 RANDABERG",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Haugsætervegen",
+          "6240 ØRSKOG",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-25"
+    }
+  ]
+}

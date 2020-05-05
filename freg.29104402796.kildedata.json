@@ -1,0 +1,222 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:12.144+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "29104402796",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:16:12.144+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:16:12.144+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1944-10-29",
+      "foedselsaar": "1944",
+      "foedekommuneINorge": "3417",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:36:28.309+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1944-10-29T00:00:00+01:00",
+      "relatertPerson": "25030601079",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T12:36:28.309+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1944-10-29T00:00:00+01:00",
+      "relatertPerson": "28100800979",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "03024402095",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:19:26.998+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1971-12-21T00:00:00+01:00",
+      "relatertPerson": "21127102977",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:19:26.998+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1970-12-29T00:00:00+01:00",
+      "relatertPerson": "29127001217",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:19:26.998+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1970-08-17T00:00:00+01:00",
+      "relatertPerson": "17087003280",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:19:26.998+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1977-06-24T00:00:00+01:00",
+      "relatertPerson": "24067701956",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T10:19:26.998+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1974-04-05T00:00:00+01:00",
+      "relatertPerson": "05047405841",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-25",
+      "relatertVedSivilstand": "03024402095"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "PÅPASSELIG",
+      "mellomnavn": "NYTTIG",
+      "etternavn": "SJOKOLADEKAKE",
+      "forkortetNavn": "PÅPASSELIG NYTTIG SJOKOL."
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "matrikkeladresse": {
+        "bruksenhetsnummer": "0",
+        "matrikkelnummer": {
+          "kommunenummer": "3417",
+          "gaardsnummer": 28,
+          "bruksnummer": 15,
+          "festenummer": 16
+        },
+        "undernummer": 0,
+        "poststed": {
+          "poststedsnavn": "KIRKENÆR",
+          "postnummer": "2260"
+        }
+      },
+      "adresseIdentifikatorFraMatrikkelen": "223870609",
+      "adressegradering": "ugradert",
+      "grunnkrets": 501,
+      "stemmekrets": 1,
+      "skolekrets": 1,
+      "kirkekrets": 2
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1982-08-07T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "0301"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1982-08-07"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "4647"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    }
+  ],
+  "postadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "St. Olavs gate",
+          "0165 OSLO",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Brunene",
+          "6817 NAUSTDAL",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-25"
+    }
+  ]
+}

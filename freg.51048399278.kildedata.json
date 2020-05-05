@@ -1,0 +1,104 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:22.689+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "51048399278",
+      "identifikatortype": "dNummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:22.689+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:22.689+01:00",
+      "status": "inaktiv"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1983-04-11",
+      "foedselsaar": "1983"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "sivilstand": "gift"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "fornavn": "INTEGRERT",
+      "etternavn": "BAKKEREKORD"
+    }
+  ],
+  "oppholdsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-15T18:44:38.318+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-15T18:44:38.318+02:00",
+      "vegadresse": {
+        "kommunenummer": "3029",
+        "adressenavn": "Skogveien",
+        "adressenummer": {
+          "husnummer": "22"
+        },
+        "poststed": {
+          "poststedsnavn": "LØRENSKOG",
+          "postnummer": "1470"
+        }
+      },
+      "adressegradering": "ugradert"
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "BJERGASPRANGET NULLNULL"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Bjergaspranget nullnull"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "statsborgerskap": "NOR"
+    }
+  ]
+}

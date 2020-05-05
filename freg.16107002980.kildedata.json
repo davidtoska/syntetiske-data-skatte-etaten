@@ -1,0 +1,235 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:30.544+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "16107002980",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:15:30.544+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:15:30.544+01:00",
+      "status": "bosatt"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "mann"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1970-10-16",
+      "foedselsaar": "1970",
+      "foedekommuneINorge": "3023",
+      "foedeland": "NOR"
+    }
+  ],
+  "familierelasjon": [
+    {
+      "ajourholdstidspunkt": "2020-03-26T11:37:39.875+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1970-10-16T00:00:00+01:00",
+      "relatertPerson": "26083200870",
+      "relatertPersonsRolle": "mor",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T11:37:39.875+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1970-10-16T00:00:00+01:00",
+      "relatertPerson": "19013300979",
+      "relatertPersonsRolle": "far",
+      "minRolleForPerson": "barn"
+    },
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "relatertPerson": "03126701410",
+      "relatertPersonsRolle": "ektefelleEllerPartner",
+      "minRolleForPerson": "ektefelleEllerPartner"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:58:17.749+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1996-10-20T00:00:00+02:00",
+      "relatertPerson": "20109602141",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:58:17.749+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "1992-04-17T00:00:00+02:00",
+      "relatertPerson": "17049200919",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-26T09:58:17.749+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2001-10-13T00:00:00+02:00",
+      "relatertPerson": "13100151108",
+      "relatertPersonsRolle": "barn",
+      "minRolleForPerson": "far"
+    }
+  ],
+  "sivilstand": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Vigsel",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "sivilstand": "gift",
+      "sivilstandsdato": "2020-03-24",
+      "relatertVedSivilstand": "03126701410"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "EMOSJONELLDOBBEL",
+      "etternavn": "RUBINETASJE",
+      "forkortetNavn": "EMOSJONELLDOBBEL RUBINET."
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-04-21T11:00:06.09+02:00",
+      "erGjeldende": true,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T11:00:06.09+02:00",
+      "vegadresse": {
+        "kommunenummer": "3420",
+        "adressenavn": "Solørvegen",
+        "adressenummer": {
+          "husnummer": "1256"
+        },
+        "poststed": {
+          "poststedsnavn": "JØMNA",
+          "postnummer": "2416"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:55:15.634+02:00",
+      "erGjeldende": false,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:55:15.634+02:00",
+      "vegadresse": {
+        "kommunenummer": "3023",
+        "adressenavn": "Mokleiva",
+        "adressenummer": {
+          "husnummer": "4",
+          "husbokstav": "E"
+        },
+        "poststed": {
+          "poststedsnavn": "NESODDTANGEN",
+          "postnummer": "1450"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-04-21T10:26:32.983+02:00",
+      "erGjeldende": false,
+      "kilde": "DataPatch",
+      "gyldighetstidspunkt": "2020-04-21T10:26:32.983+02:00",
+      "vegadresse": {
+        "kommunenummer": "1103",
+        "adressenavn": "Madlasandnes",
+        "adressenummer": {
+          "husnummer": "123",
+          "husbokstav": "A"
+        },
+        "poststed": {
+          "poststedsnavn": "HAFRSFJORD",
+          "postnummer": "4045"
+        }
+      },
+      "adressegradering": "ugradert"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-24T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "vegadresse": {
+        "kommunenummer": "3023",
+        "bruksenhetsnummer": "37",
+        "adressenavn": "Øvre Utsiktsvei",
+        "adressekode": "00001",
+        "poststed": {
+          "poststedsnavn": "NESODDTANGEN",
+          "postnummer": "1450"
+        },
+        "coAdressenavn": ""
+      },
+      "adresseIdentifikatorFraMatrikkelen": "397949504",
+      "adressegradering": "ugradert",
+      "grunnkrets": 201,
+      "stemmekrets": 2,
+      "skolekrets": 2,
+      "kirkekrets": 3
+    }
+  ],
+  "preferertKontaktadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "",
+      "valg": "postadresse",
+      "adressegradering": "ugradert",
+      "kontaktadresseIFrittFormat": {
+        "adresselinje": [
+          "ØVRE UTSIKTSVEI",
+          "1450 NESODDTANGEN",
+          "NORGE"
+        ]
+      }
+    }
+  ],
+  "postadresse": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Øvre Utsiktsvei",
+          "1450 NESODDTANGEN",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-24T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-24"
+    }
+  ]
+}

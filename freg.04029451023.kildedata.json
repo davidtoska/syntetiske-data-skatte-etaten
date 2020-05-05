@@ -1,0 +1,187 @@
+{
+  "identifikasjonsnummer": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:47.183+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "status": "iBruk",
+      "foedselsEllerDNummer": "04029451023",
+      "identifikatortype": "foedselsnummer"
+    }
+  ],
+  "status": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T20:14:47.183+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T20:14:47.183+01:00",
+      "status": "doed"
+    }
+  ],
+  "kjoenn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "kjoenn": "kvinne"
+    }
+  ],
+  "foedsel": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "foedselsdato": "1894-02-04",
+      "foedselsaar": "1894",
+      "foedekommuneINorge": "1506",
+      "foedeland": "NOR"
+    }
+  ],
+  "navn": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Første gangs navnevalg",
+      "gyldighetstidspunkt": "2019-01-01T00:00:00+01:00",
+      "fornavn": "LËNGRE",
+      "mellomnavn": "DIREKTE",
+      "etternavn": "SAUDABU",
+      "forkortetNavn": "LËNGRE DIREKTE SAUDABU"
+    }
+  ],
+  "bostedsadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Årsakskode fra DSF: ",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "matrikkeladresse": {
+        "bruksenhetsnummer": "H0101",
+        "bruksenhetstype": "fritidsbolig",
+        "matrikkelnummer": {
+          "kommunenummer": "1506",
+          "gaardsnummer": 259,
+          "bruksnummer": 72,
+          "festenummer": 0
+        },
+        "undernummer": 0,
+        "poststed": {
+          "poststedsnavn": "EIDSVÅG I ROMSDAL",
+          "postnummer": "6460"
+        }
+      },
+      "adresseIdentifikatorFraMatrikkelen": "345404033",
+      "adressegradering": "ugradert",
+      "grunnkrets": 809,
+      "stemmekrets": 9,
+      "skolekrets": 12,
+      "kirkekrets": 1
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "ukjentBosted": {
+        "bostedskommune": "3019"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "0001-01-01"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1937-02-25T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "3805"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1937-02-25"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "1979-05-09T00:00:00+01:00",
+      "ukjentBosted": {
+        "bostedskommune": "3025"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "1979-05-09"
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "aarsak": "Flytting innen kommunen",
+      "gyldighetstidspunkt": "2011-04-20T00:00:00+02:00",
+      "ukjentBosted": {
+        "bostedskommune": "5037"
+      },
+      "adressegradering": "ugradert",
+      "flyttedato": "2011-04-20"
+    }
+  ],
+  "postadresse": [
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Vardåsbakken",
+          "1555 SON",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2017-10-09T00:00:00+02:00",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": []
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Torpmarka",
+          "1389 HEGGEDAL",
+          "Norge"
+        ]
+      }
+    },
+    {
+      "ajourholdstidspunkt": "2020-03-25T00:00:00+01:00",
+      "erGjeldende": false,
+      "kilde": "KILDE_DSF",
+      "adressegradering": "ugradert",
+      "postadresseIFrittFormat": {
+        "adresselinje": [
+          "Blåklokkevegen",
+          "7606 LEVANGER",
+          "Norge"
+        ]
+      }
+    }
+  ],
+  "statsborgerskap": [
+    {
+      "erGjeldende": true,
+      "kilde": "KILDE_DSF",
+      "gyldighetstidspunkt": "2020-03-25T00:00:00+01:00",
+      "statsborgerskap": "NOR",
+      "ervervsdato": "2020-03-25"
+    }
+  ]
+}
